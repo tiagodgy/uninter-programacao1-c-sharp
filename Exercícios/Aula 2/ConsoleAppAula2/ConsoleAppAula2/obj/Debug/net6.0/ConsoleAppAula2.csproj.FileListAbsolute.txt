@@ -1,0 +1,14 @@
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\bin\Debug\net6.0\ConsoleAppAula2.exe
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\bin\Debug\net6.0\ConsoleAppAula2.deps.json
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\bin\Debug\net6.0\ConsoleAppAula2.runtimeconfig.json
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\bin\Debug\net6.0\ConsoleAppAula2.dll
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\bin\Debug\net6.0\ConsoleAppAula2.pdb
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\obj\Debug\net6.0\ConsoleAppAula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\obj\Debug\net6.0\ConsoleAppAula2.AssemblyInfoInputs.cache
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\obj\Debug\net6.0\ConsoleAppAula2.AssemblyInfo.cs
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\obj\Debug\net6.0\ConsoleAppAula2.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\obj\Debug\net6.0\ConsoleAppAula2.dll
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\obj\Debug\net6.0\refint\ConsoleAppAula2.dll
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\obj\Debug\net6.0\ConsoleAppAula2.pdb
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\obj\Debug\net6.0\ConsoleAppAula2.genruntimeconfig.cache
+C:\Users\Tiago Godoy\Documents\Coding\uninter-programacao1-c-sharp\Exercícios\Aula 2\ConsoleAppAula2\ConsoleAppAula2\obj\Debug\net6.0\ref\ConsoleAppAula2.dll
